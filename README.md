@@ -1,8 +1,6 @@
-<center>
-
-# Hi, there👋<br> I'm Jinu!
-
-</center>
+<div style="text-align: center;">
+  <h1>Hi, there👋<br> I'm Jinu!</h1>
+</div>
 
 <!--
 **JinuSpace/JinuSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
