@@ -1,7 +1,6 @@
 <center>
 
-# Hi, there 
-## I'm Jinu
+# Hi, there👋<br> I'm Jinu!
 
 </center>
 
