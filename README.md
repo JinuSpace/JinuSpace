@@ -1,4 +1,4 @@
-<div align="center" size=20px>
+<div align="center" size=40px>
    Hi, I'm Jinu👋
 </div>
 <!--
