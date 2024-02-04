@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinuSpace&theme=dark&show_icons=true)   
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=JinuSpace&show_icons=true&theme=dark&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinuSpace&layout=compact&theme=dark)
