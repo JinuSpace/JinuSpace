@@ -14,16 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <a>
-<img src= "![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinuSpace&theme=dark&show_icons=true)" style="width: 68%;"/>
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=JinuSpace&theme=dark&show_icons=true&custom_title=Anurag's%20GitHub%20Stats&hide_title=true" alt="GitHub Stats" style="width: 68%;">
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinuSpace&layout=compact&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api?username=JinuSpace&theme=dark&show_icons=true&custom_title=Anurag's%20GitHub%20Stats&hide_title=true" alt="GitHub Stats" style="width: 68%;">
+<a/>
 <a>
-<img src= />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinuSpace&layout=compact&theme=dark" alt="Top Languages" style="width: 38%;">
 </a>
