@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a>
+<img src= ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinuSpace&theme=dark&show_icons=true)   />
+</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinuSpace&theme=dark&show_icons=true)   
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinuSpace&layout=compact&theme=dark)
+<a>
+<img src= />
+</a>
