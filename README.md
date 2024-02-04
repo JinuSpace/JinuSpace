@@ -1,5 +1,5 @@
 <center>
-  ### Hi, there👋<br> I'm Jinu!</h1>
+  ### Hi, there👋<br> I'm Jinu!
 </center>
 
 <!--
