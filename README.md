@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=JinuSpace&theme=dark&show_icons=true&custom_title=Anurag's%20GitHub%20Stats&hide_title=true" alt="GitHub Stats" style="width: 32%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JinuSpace&theme=dark&show_icons=true&custom_title=Anurag's%20GitHub%20Stats&hide_title=true">
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinuSpace&layout=compact&theme=dark" alt="Top Languages" style="width: 38%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinuSpace&layout=compact&theme=dark">
 </p>
