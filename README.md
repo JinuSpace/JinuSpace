@@ -25,6 +25,4 @@ Here are some ideas to get you started:
 <span>
   <img src="https://github-readme-stats.vercel.app/api?username=JinuSpace&theme=dark&show_icons=true&custom_title=Anurag's%20GitHub%20Stats&hide_title=true" height="180em" />
 </span>
-<div>
- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlsdn1599)](https://solved.ac/wlsdn1599)<br/>
-</div>
+
