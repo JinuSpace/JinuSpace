@@ -1,8 +1,7 @@
-<center>
+
 
 ## Hi, there👋<br> I'm Jinu!
 
-</center>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinuSpace&layout=compact&theme=dark" height="180em" />
@@ -11,12 +10,12 @@
 <br>
   </div>
   <div>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
     </div>
-<center>
+
 
   ## My Tech Stack🛠
-</center>
+
 <div>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
