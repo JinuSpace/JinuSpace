@@ -5,7 +5,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinuSpace&layout=compact&theme=dark" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JinuSpace&theme=dark&show_icons=true&custom_title=Anurag's%20GitHub%20Stats&hide_title=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JinuSpace&theme=dark&show_icons=true&custom_title=Jinu's%20GitHub%20Stats&hide_title=true" height="180em" />
   <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdn1599" width = "328em" style="display: block; margin: 0 auto;" />
 <br>
   </div>
